@@ -1,0 +1,105 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/dementia-charlson-primary-care-dementium---primary.py
+inputModule3:
+  class: File
+  path: python/dementia-charlson-primary-care-degen---primary.py
+inputModule4:
+  class: File
+  path: python/alcoholic-dementia-charlson-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/dementia-charlson-primary-care-scale---primary.py
+inputModule6:
+  class: File
+  path: python/paranoid-dementia-charlson-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/dementia-charlson-primary-care-depression---primary.py
+inputModule8:
+  class: File
+  path: python/dementia-charlson-primary-care-letter---primary.py
+inputModule9:
+  class: File
+  path: python/dementia-charlson-primary-care-superimposed---primary.py
+inputModule10:
+  class: File
+  path: python/dementia-charlson-primary-care-unspecified---primary.py
+inputModule11:
+  class: File
+  path: python/dementia-charlson-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/dementia-charlson-primary-care-invite---primary.py
+inputModule13:
+  class: File
+  path: python/referral-dementia-charlson-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/dementia-charlson-primary-care-features---primary.py
+inputModule15:
+  class: File
+  path: python/dementia-charlson-primary-care-alzheimer---primary.py
+inputModule16:
+  class: File
+  path: python/dementia-charlson-primary-care-delirium---primary.py
+inputModule17:
+  class: File
+  path: python/dementia-charlson-primary-care-presenile---primary.py
+inputModule18:
+  class: File
+  path: python/dementia-charlson-primary-care-jakobcreutzfeldt---primary.py
+inputModule19:
+  class: File
+  path: python/dementia-charlson-primary-care-uncomplicated---primary.py
+inputModule20:
+  class: File
+  path: python/dementia-charlson-primary-care-indicator---primary.py
+inputModule21:
+  class: File
+  path: python/dementia-charlson-primary-care-picks---primary.py
+inputModule22:
+  class: File
+  path: python/vascular-dementia-charlson-primary-care---primary.py
+inputModule23:
+  class: File
+  path: python/dementia-charlson-primary-care-excepted---primary.py
+inputModule24:
+  class: File
+  path: python/dementia-charlson-primary-care-onset---primary.py
+inputModule25:
+  class: File
+  path: python/chronic-dementia-charlson-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/mixed-dementia-charlson-primary-care---primary.py
+inputModule27:
+  class: File
+  path: python/dementia-charlson-primary-care-deterioration---primary.py
+inputModule28:
+  class: File
+  path: python/dementia-charlson-primary-care-assessment---primary.py
+inputModule29:
+  class: File
+  path: python/subcortical-dementia-charlson-primary-care---primary.py
+inputModule30:
+  class: File
+  path: python/arteriosclerotic-dementia-charlson-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/early-dementia-charlson-primary-care---primary.py
+inputModule32:
+  class: File
+  path: python/dementia-charlson-primary-care-parkinsons---primary.py
+inputModule33:
+  class: File
+  path: python/other-dementia-charlson-primary-care---primary.py
+inputModule34:
+  class: File
+  path: python/dementia-charlson-primary-care-monitoring---primary.py
+inputModule35:
+  class: File
+  path: python/output-cases.py
